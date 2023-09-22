@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sud-09 -> Sudhanva Gokhale
 - 👀 I’m interested in Electronics and Coding
-- 🌱 I’m currently pursuing a Master of Science in Electrical Engineering
+- 🌱 I’m currently pursuing a Master of Science in Electrical Engineering from Virginia Tech
 - 💞️ I’m looking to collaborate on Electronics Simulation Software and coding in Python, C++ and Embedded C
 - 📫 Reach me through e-mail at sudhanva@vt.edu
 
